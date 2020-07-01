@@ -5,5 +5,4 @@
 ## Toy_Projects
 
 - ### Data Processing of Trump's tweets
-
-  
+- ### Analysis of English voca text file
