@@ -11,6 +11,6 @@
 ## Toy_Projects
 
 - ### Data Processing of Trump's tweets
-- ### Analysis of English voca text file
+- ### Analysis of English words
 - ### Netflix watching data's Datatype transformation
 
