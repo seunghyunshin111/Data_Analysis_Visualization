@@ -12,5 +12,5 @@
 
 - ### Data Processing of Trump's tweets
 - ### Analysis of English words
-- ### Netflix watching data's Datatype transformation
+- ### Datatype transformation of Netflix watching data
 
