@@ -1,7 +1,3 @@
-# Table of Contents
-
-<br>
-
 ## Data_Visualization
 
 - ### Data Visualization of Cheongwadae's national petition
