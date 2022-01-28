@@ -1,4 +1,12 @@
-## Data_Visualization
+## Data_Analysis_Python
+
+- ### Analysis of Omicron daily cases by country
+
+  국가별 오미클론 발생현황 분석 (Uncompleted)
+  
+<br>
+
+## Data_Visualization_Python
 
 - ### Data Visualization of Cheongwadae's national petition
 
@@ -6,7 +14,7 @@
 
 <br>
 
-## Toy_Projects
+## Toy_Projects_Python
 
 - ### Data Processing of Trump's tweets
 
